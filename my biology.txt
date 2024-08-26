@@ -1,0 +1,89 @@
+<DOCTYPE html>
+<html>
+<body>
+<head>
+<title>Biology</title>
+</head>
+<h2>
+Definition of biology
+</h2>
+
+
+
+<h2>
+Biology is derived from the two Greeck words BIOS which means life and LOGOS wich means study.
+  </h2>
+
+<h2>
+Branches of biology
+</h2>
+<h2>
+The two main branches of biology are:
+</h2>
+<h2>
+Zoology:  zoology is defined as the studie of animals e.g dogs,cats,lames and even roosters.
+</h2>
+
+<h2>
+Botany:  Botany is defined as the study of plants e.g the flytrap plant.
+</h2>
+
+<h2>
+Other branches of biology are:
+</h2>
+
+<h2>
+Ecolpogy: Ecology involves the study of plants and animals (living thing) in relation to their enviroment.
+</h2>
+
+<h2>
+Morphology: morphology involes the study of external featuers of plants and animals.
+</h2>
+
+<h2>
+Anatomy:Anatomy is another branch of of biology which involves the study of internal structures of plants and animals.
+</h2>
+
+<h2>
+Genetics: Genetics is the study of hereditry and variation of living things.
+</h2>
+
+<h2>
+Physiology: Physiology is the study of how plants and animals function.
+</h2>
+
+<h2>
+Processes or method of sience
+</h2>
+<h2>
+There are nine(9) processes or methods of science listed below
+</h2>
+<h2>
+Observation
+</h2>
+<h2>
+Classification
+</h2>
+<h2>
+Inference
+</h2>
+<h2>
+Measurment
+</h2>
+<h2>
+Identification
+</h2>
+<h2>
+Hipothesis
+</h2>
+<h2>
+Expiriment
+</h2>
+<h2>
+Control or Conclusions
+</h2>
+<h2>
+Theory or Law
+</h2>
+</body> 
+</html>
